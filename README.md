@@ -7,7 +7,7 @@ This mini project demonstrates the implementation of a networking setup in AWS. 
 ## Project Structure
 
 The Cloud Architecture comprises the following components:
-<img src="Images/20.png" alt="Configure VPC">
+<img src="Images/20.jpg" alt="Configure VPC">
 
 
 ### 1. Virtual Private Cloud (VPC)
